@@ -1,0 +1,30 @@
+body {
+background: #288ba8
+
+}
+
+h1{
+    color: white;
+}
+.contactez-nous {
+background-color: rgb(24, 21, 21);    
+border: 1px solid black;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.deplacer{
+ background-color:orange ;  
+ border: 1px solid black; 
+display: flex;
+
+}
+
+.dessous{      
+color: aliceblue;
+background-color: black;
+display: flex;
+}
+
